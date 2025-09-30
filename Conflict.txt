@@ -1,2 +1,2 @@
-This is line 1 from feature-branch
+Edit in Line 1 from conflict branch
 This is line 2 from feature-branch

@@ -3,3 +3,4 @@ This is line 2 from feature-branch
 "This is added by Harshit" 
 This line added by Dhanushk.
 Second line added by Dhanushk.
+"Second line by Harshit" 
